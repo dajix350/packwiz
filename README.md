@@ -1,3 +1,10 @@
+# WHAT IS THIS REPO
+
+This is a mirror of the Packwiz repo that exists to run the Github Action to generate a new Packwiz build, since the last one has expired. 
+Original README below
+
+---
+
 # packwiz
 packwiz is a command line tool for creating Minecraft modpacks. Instead of managing JAR files directly, packwiz creates TOML metadata files which can be easily version-controlled and shared with git (see an example pack [here](https://github.com/packwiz/packwiz-example-pack)). You can then [export it to a CurseForge or Modrinth modpack](https://packwiz.infra.link/tutorials/hosting/curseforge/), or [use packwiz-installer](https://packwiz.infra.link/tutorials/installing/packwiz-installer/) for an auto-updating MultiMC instance.
 
